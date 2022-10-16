@@ -1,11 +1,7 @@
 #include <iostream>
 
 int Policz (int a, int b) {
-    <<<<<<< HEAD
-    return a*b;
-    =======
     return (a+b)*(a-b);
-    >>>>>>> 03
 }
 int main() {
     std::cout << "Hello, World!" << std::endl;
